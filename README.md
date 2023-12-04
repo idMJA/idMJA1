@@ -1,4 +1,4 @@
-![](https://cdn.discordapp.com/attachments/897469855362584576/1180810287855697961/ezgif.com-crop_1.gif?ex=657ec647&is=656c5147&hm=8b26dadbee17d211ac1da3526c5021571c1dfbbb6f038f232fc2b37c15545034&)
+![](https://cdn.discordapp.com/attachments/897469855362584576/1181232363049590845/ezgif.com-crop_1_2.gif?ex=65804f5d&is=656dda5d&hm=4adc08c3f8a00376574a1be3da0613366b2ccee4127f57017fbb8db50e1dd18f&)
 
 # 💫 About Me:
 🔭 I’m currently working on KejuGroup<br>🌱 I’m currently learning everyting 😱
