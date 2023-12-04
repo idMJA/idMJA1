@@ -27,6 +27,7 @@ I Work as **Nothing** :(
 <p><img align="left" src="https://streak-stats.demolab.com?user=idMJA&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak" /></p>
 
 <br/>
+
 # Profile Stats
 <p><img align="center" src="https://discord-readme-badge-nine.vercel.app/api?id=885731228874051624" alt="Discord" /></p>
 
