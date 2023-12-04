@@ -1,3 +1,5 @@
+![](https://cdn.discordapp.com/attachments/897469855362584576/1180810287855697961/ezgif.com-crop_1.gif?ex=657ec647&is=656c5147&hm=8b26dadbee17d211ac1da3526c5021571c1dfbbb6f038f232fc2b37c15545034&)
+
 # 💫 About Me:
 🔭 I’m currently working on KejuGroup<br>🌱 I’m currently learning everyting 😱
 
