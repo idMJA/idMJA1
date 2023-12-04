@@ -18,13 +18,13 @@ I Work as **Nothing** :(
 <br/>
 
 # Github Stats
-<p><img src="https://github-readme-stats.vercel.app/api?username=idMJA&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=idMJA&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" /></p>
 
 
-<p><a href="https://github.com/idMJA"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idMJA&hide_border=true&amp;layout=compact&theme=tokyonight" alt="Top Langs" /></p>
+<p><a href="https://github.com/idMJA"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idMJA&hide_border=true&amp;layout=compact&theme=tokyonight" alt="Top Langs" align="center" /></p>
 
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=idMJA&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak" /></p>
+<p><img align="left" src="https://streak-stats.demolab.com?user=idMJA&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak" /></p>
 
 
 # Profile Stats
@@ -41,6 +41,6 @@ I Work as **Nothing** :(
 <p><img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=8116baq16nwq1sab8c5dy3rrx" alt="Spotify Recent" /></p>
 
 
-<div align="center">
+
 <a href="https://steamcommunity.com/id/MJBA" target="_blank">
 <p><img align="center" src="https://steam-stat.vercel.app/api?profileName=MJBA" alt="Steam" /></p></a>
