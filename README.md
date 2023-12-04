@@ -1,5 +1,7 @@
+![](https://cdn.discordapp.com/attachments/897469855362584576/1181236289962508328/konoe_subaru_9357_1.png?ex=65805305&is=656dde05&hm=28924869841ae58fa4e6db5d10b012e02168789d753c98682a21b2754ea2495a&)
 ![](https://cdn.discordapp.com/attachments/897469855362584576/1181232363049590845/ezgif.com-crop_1_2.gif?ex=65804f5d&is=656dda5d&hm=4adc08c3f8a00376574a1be3da0613366b2ccee4127f57017fbb8db50e1dd18f&)
 ![](https://cdn.discordapp.com/attachments/897469855362584576/1181235745046921328/ezgif.com-crop_2_1.gif?ex=65805283&is=656ddd83&hm=33f6e61d87dd6eac0151563c47ab73afeee04921f8a14634a3cd6d5c43ace1c6&)
+![](https://cdn.discordapp.com/attachments/897469855362584576/1181236395621236897/shiraishi_urara_1.jpg?ex=6580531f&is=656dde1f&hm=a5fa47c4ba8dedef62ab422ff80e2a67a18e2232870b40edc336fb72423b3aad&)
 
 # 💫 About Me:
 🔭 I’m currently working on KejuGroup<br>🌱 I’m currently learning everyting 😱
