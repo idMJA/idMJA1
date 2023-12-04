@@ -14,6 +14,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=idMJA&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=idMJA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=pie)<br/>
 
+# 💻 Profile Stats:
+![](https://discord-readme-badge-nine.vercel.app/api?id=885731228874051624)<br/>
+![](https://discord-readme-badge-nine.vercel.app/api?id=949074540380688424)<br/>
+
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=8116baq16nwq1sab8c5dy3rrx&redirect=true" target="_blank">
+<p><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=8116baq16nwq1sab8c5dy3rrx&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify" /></p></a>
+
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
